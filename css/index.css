@@ -129,4 +129,6 @@ p{
 .texto-imagen {
     text-align: center;
     margin-top: 10px;
+    font-family: bold, sans-serif;
+    border-radius: 10px;
 }
