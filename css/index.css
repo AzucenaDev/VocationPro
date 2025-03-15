@@ -1,5 +1,5 @@
 body{
-    background-color: #faf4f4;
+    background-color: #fdfdfd;
     font-family: bold, sans-serif;
     margin: 0;
     padding: 0;
@@ -59,7 +59,7 @@ p{
 /****contenedor***/
 .image-container {
     position: relative;
-    width: 1300px;
+    width: 1250px;
     height: 400px;
     margin: 0 auto;
 }
@@ -80,7 +80,7 @@ p{
     align-items: center;
     justify-content: center;
     color: rgb(20, 20, 20);
-    background-color: rgba(252, 251, 251, 0.1); 
+    background-color: rgba(252, 251, 251, 0.397); 
     padding: 20px;
     box-sizing: border-box; 
 
