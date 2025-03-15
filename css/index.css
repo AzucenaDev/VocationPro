@@ -102,3 +102,31 @@ p{
     font-size: 1em;
     border-radius: 50px;
 }
+
+/****imagenes de direccion***/
+
+.imagenes-direcionadas{
+    display:flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.imagenes-direcionadas div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 400px;
+}
+
+.imagenes-direcionadas img {
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.texto-imagen {
+    text-align: center;
+    margin-top: 10px;
+}
