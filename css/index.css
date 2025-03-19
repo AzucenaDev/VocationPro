@@ -141,3 +141,14 @@ footer {
     padding: 20px 0;
 }
 
+.texto-footer {
+    text-align: center;
+    color:#D91E2E;
+    margin-top: 10px;
+    font-family: bold, sans-serif;
+}
+
+footer img{
+    height: 100px;
+    width: 100px;
+}
