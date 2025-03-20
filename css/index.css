@@ -163,14 +163,14 @@ p{
 footer {
     background-color: #36343444;
     color: white;
-    padding: 20px 0;
 }
 
 .division-footer {
     display: flex;
-    flex-direction:column;
-    gap: 20px;
+    justify-content: space-between;
     align-items: center;
+    gap: 20px;
+    padding:20px;
     
 }
 
