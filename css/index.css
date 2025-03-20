@@ -161,14 +161,14 @@ p{
 /****Pie de Pagina*****/
 
 footer {
-    background-color: #f3c1c1;
+    background-color: #adadad;
     color: white;
 }
 
 .division-footer {
     display: flex;
     justify-content: space-between;
-    gap: 100px;
+    gap: 50px;
     padding:20px;
     
 }
@@ -179,7 +179,15 @@ footer {
     font-family: bold, sans-serif;
 }
 
-footer img{
+.logo-piepagina{
     height: 100px;
     width: 100px;
+}
+.direccion-footer{
+    display: flex;
+}
+
+.Redes-sociales {
+    height: 30px;
+    width: 30px;
 }
