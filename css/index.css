@@ -149,6 +149,10 @@ p{
     border-radius: 10px;
     object-fit: cover;
 }
+.texto-negrilla {
+    font-weight: bold;
+
+}
 
 
 
