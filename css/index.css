@@ -168,8 +168,7 @@ footer {
 .division-footer {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    gap: 20px;
+    gap: 100px;
     padding:20px;
     
 }
