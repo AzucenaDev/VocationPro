@@ -56,7 +56,16 @@ p{
     margin-top: 20px;
 }
 
-/****contenedor***/
+/**********************subtitulos de toda la pagina**********************/
+
+.subtitulo{
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 20px;
+    font-family: bold, sans-serif;
+}
+
+/****contenedor imagen1***/
 .image-container {
     position: relative;
     width: 1250px;
@@ -154,7 +163,13 @@ p{
 
 }
 
-
+/****Comentario de Alumnos***/
+.subtitulo-comentario{
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 20px;
+    font-family: bold, sans-serif;
+}
 
 
 
