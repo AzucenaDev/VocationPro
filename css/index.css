@@ -133,6 +133,27 @@ p{
     border-radius: 10px;
 }
 
+/****descripcion corta***/
+.Texto-descriptivo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding:20px;
+
+}
+
+.Texto-descriptivo img {
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+
+
+
+
 /****Pie de Pagina*****/
 
 footer {
@@ -146,6 +167,7 @@ footer {
     flex-direction:column;
     gap: 20px;
     align-items: center;
+    
 }
 
 .texto-footer {
