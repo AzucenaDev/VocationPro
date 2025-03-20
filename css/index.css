@@ -164,14 +164,31 @@ p{
 }
 
 /****Comentario de Alumnos***/
+
+.comentario-alumnos{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding:20px;
+}
+
 .subtitulo-comentario{
     text-align: center;
     font-size: 1.5em;
     margin-top: 20px;
     font-family: bold, sans-serif;
 }
-
-
+.nombre-persona{
+    text-align: center;
+    font-size: 1.5em;
+   
+}
+.foto-alumno{
+    height: 50px;
+    width: 50px;    
+    border-radius: 50%;
+    object-fit: cover;
+}
 
 /****Pie de Pagina*****/
 
