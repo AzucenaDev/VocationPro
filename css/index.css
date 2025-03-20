@@ -161,7 +161,7 @@ p{
 /****Pie de Pagina*****/
 
 footer {
-    background-color: #adadad;
+    background-color: #e2e0e0;
     color: white;
 }
 
@@ -177,6 +177,7 @@ footer {
     color:#D91E2E;
     margin-top: 10px;
     font-family: bold, sans-serif;
+    font-size: 1em;
 }
 
 .logo-piepagina{
